@@ -7,7 +7,7 @@
 - <b>Bank mobile App (Figma, HTML, CSS, React,)</b>
   - [Banking App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i
 - <b>Ecommerce website (Photoshop, Figma, HTML, CSS, Javascript)</b>
-  - [one page Ecommerce website](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [pixel maker](https://github.com/joshmadakor1/Algorithms-Practice)
 
 <h2>Certifications</h2>
 
