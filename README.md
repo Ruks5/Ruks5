@@ -3,11 +3,11 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Project seed (Photoshop, Figma, HTML, CSS, Javascript)</b>
-  - [Wireframe of Project Seed](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Wireframe of Project Seed](https://github.com/Ruks5/Rukevwe-Ukwa)
 - <b>Bank mobile App (Figma, HTML, CSS, React,)</b>
-  - [Banking App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i
-- <b>Ecommerce website (Photoshop, Figma, HTML, CSS, Javascript)</b>
-  - [pixel marker](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Banking App](https://github.com/Ruks5/Rukevwe-Ukwa) <b><i>(Potentially NSFW)</b></i
+- <b>Pixel Marker (HTML, CSS, Javascript)</b>
+  - [pixel marker](https://github.com/Ruks5/Rukevwe-Ukwa)
 
 <h2>Certifications</h2>
 
