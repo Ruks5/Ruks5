@@ -1,49 +1,46 @@
-<h1>Hi, I'm Rukevwe! <br/><a href="https://github.com/joshmadakor1">Graphic Designer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Frontend Developer</a>.</h1>
+<h1 align="center">Hi 👋, I'm Rukevwe Ukwa</h1>
+<p align="center">
+  An aspiring <strong>Frontend Web Developer</strong> who paints the web with code.
+  <br>
+  <em>Design-driven. Detail-oriented. Inspired by functionality and beauty.</em>
+</p>
 
-<h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Project seed (Photoshop, Figma, HTML, CSS, Javascript)</b>
-  - [Wireframe of Project Seed](https://github.com/Ruks5/Rukevwe-Ukwa)
-- <b>Bank mobile App (Figma, HTML, CSS, React,)</b>
-  - [Banking App](https://github.com/Ruks5/Rukevwe-Ukwa) <b><i>(Potentially NSFW)</b></i
-- <b>Pixel Marker (HTML, CSS, Javascript)</b>
-  - [pixel marker](https://github.com/Ruks5/Rukevwe-Ukwa)
+---
+### 🎨 About Me
 
-<h2>Certifications</h2>
+🌱 Currently learning at ALX Frontend Web Development Program  
+💡 Passion: Design, look & feel, painting the web with code  
+💻 My code is my digital artwork each site a canvas in a gallery  
+🌍 Building climate aware interactive tools that raise awareness  
 
-- [Bachelor of Science In Architecture]
-- [Webflow 101 Certificate]
-- [Moodle Admin Basics MOOC]
+---
+With a background in architecture, product design, and e‑learning, I’ve created 90+ eLearning courses, led teams, and seamlessly blend visuals (Figma, Adobe Suite, Articulate Storyline) with code (HTML, CSS, JS).
 
-<h2>📺 Popular YouTube Videos</h2>
+I love building:
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+🛒 E-commerce platforms
 
-<h2> 🤳 Connect with me:</h2>
+💳 Fintech/Banking applications
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+☀️ Weather dashboards
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/rukevweukwa
+🎯 Landing pages
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Educational tools
 
-Here are some ideas to get you started:
+---
+### 🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: HTML5 • CSS3 • JavaScript (ES6+)
+Frameworks & UI: React.js • Bootstrap • Tailwind CSS
+Tools: Git, GitHub, Figma, Adobe XD/Illustrator, Articulate Storyline
+
+
+---
+### 🌐 Connect with Me
+
+
+🔗 Portfolio: Coming soon.com  
+💼 LinkedIn: linkedin.com/in/yourlinkedin  
+🧠 Motto: "Code as brush, browser as canvas."
